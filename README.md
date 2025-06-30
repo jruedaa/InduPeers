@@ -24,12 +24,3 @@ FlexWork es una solución inteligente y eficiente diseñada para optimizar la as
 3. Ejecuta el modelo.
 4. Visualiza y descarga resultados.
 
----
-
-## 📦 Instalación
-
-```bash
-git clone https://github.com/jruedaa/InduPeers.git
-cd InduPeers
-pip install -r requirements.txt
-python app.py
