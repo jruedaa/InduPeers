@@ -1,0 +1,6 @@
+!pip install dash
+!pip install dash-bootstrap-components
+!pip install plotly
+!pip install matplotlib
+!pip install pandas
+!pip install gurobipy
